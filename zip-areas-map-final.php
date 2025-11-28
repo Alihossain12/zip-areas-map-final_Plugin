@@ -3,7 +3,7 @@
  * Plugin Name: ZIP Areas Map Final (Click Focus)
  * Description: Display specific ZIP codes on a responsive Leaflet map. Clicking any ZIP marker centers and zooms to that location.
  * Version: 3.3
- * Author: Mak Tech Solution (Ali Hossain)
+ * Author: Ali Hossain
  */
 
 if (!defined('ABSPATH')) exit;
